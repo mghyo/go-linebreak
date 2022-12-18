@@ -1,8 +1,11 @@
 # go-linebreak
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/mghyo/go-linebreak.svg)](https://pkg.go.dev/github.com/mghyo/go-linebreak)
+[![Go Report Card](https://goreportcard.com/badge/github.com/mghyo/go-linebreak)](https://goreportcard.com/report/github.com/mghyo/go-linebreak)
+
 ## Installation
 ```bash
-go get -u github.com/mghyo/go-linebreak
+go get github.com/mghyo/go-linebreak
 ```
 
 ## Purpose
