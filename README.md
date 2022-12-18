@@ -5,7 +5,7 @@
 
 ## Installation
 ```bash
-go get github.com/mghyo/go-linebreak
+go get -u github.com/mghyo/go-linebreak
 ```
 
 ## Purpose
