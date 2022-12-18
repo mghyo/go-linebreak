@@ -1,3 +1,3 @@
 package linebreak
 
-const OsLinebreak = "\n"
+const Linebreak = "\n"
